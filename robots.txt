@@ -61,4 +61,3 @@ Disallow: /admin/
 
 # Sitemap links
 Sitemap: https://www.nusachain.site/sitemap.xml
-Sitemap: https://tanya.nusachain.site/sitemap.xml
